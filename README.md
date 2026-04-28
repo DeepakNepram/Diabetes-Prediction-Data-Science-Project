@@ -53,16 +53,8 @@ The notebook `PROJECTDiabetesPrediction.ipynb` walks through the following steps
    - Highlight which features are most influential for predicting diabetes.
    - Discuss how such a model could be used in a real healthcare setting (e.g., pre‑screening or decision support).
 
-## Repository Structure
 
-```text
-diabetes-prediction/
-├─ PROJECTDiabetesPrediction.ipynb   # Main analysis and modeling notebook
-├─ README.md                        # This file
-└─ images/                          # (Optional) Plots and figures for documentation
-```
-
-## How to Run the Notebook
+## How to Run the Notebook(chnage the links and paths as required)
 
 1. Clone the repository:
 
